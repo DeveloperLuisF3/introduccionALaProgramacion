@@ -41,12 +41,14 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
  
 ## Importancia de la programación
 
-- La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos, como herramientas y accesorios, que simplifican el ahorro de tiempo y el esfuerzo de trabajo. 
+─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos, como herramientas y accesorios, que simplifican el ahorro de tiempo y el esfuerzo de trabajo. 
 
 En la actualidad, la **programación** es parte fundamental del avance tecnológico beneficiando diversos campos, como:
+
 Comunicación, transporte, medicina, economía, educación, investigación, trabajo, industria, creación y mejoramiento de máquinas que simplifican el trabajo, entre otros.
 
-- Oportunidad laboral, un beneficio de saber programar. 
+─ Oportunidad laboral, un beneficio de saber programar. 
+
 La generación actual debe estar alfabetizada en tecnología para ser competitiva en el mercado laboral futuro. No saber codificar será comparable a no saber leer. La mayoría de las compañías tecnológicas requieren el conocimiento de habilidades básicas de TI(tecnologías de la información).
 
 - - -
