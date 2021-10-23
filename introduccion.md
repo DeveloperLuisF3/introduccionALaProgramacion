@@ -15,9 +15,9 @@
 
 ## Introducción 
 
-El propósito de esta guía es adquirir los **fundamentos de programación** necesarios para crear cualquier programa de computadora. 
+El propósito de esta guía es adquirir los **fundamentos de programación** necesarios para crear programas de computadora. 
 
-Empezaremos con una breve explicación sobre el concepto, los beneficios y la importancia de la programación, después, veremos cuál es el proceso para crear programas de computadora completamente desde cero y por último profundizaremos en los fundamentos del lenguaje de programación.
+Comenzaremos, con una breve explicación sobre el concepto, los beneficios y la importancia de la programación, veremos, cuál es el proceso para crear programas de computadora completamente desde cero, y por último, profundizaremos en los fundamentos del lenguaje de programación.
 
 Espero que esta guía te sea útil. :100:
 
@@ -25,7 +25,7 @@ Espero que esta guía te sea útil. :100:
 
 ## ¿Qué es la programación?
 
-La **programación** es el proceso que permite idear, ordenar, interpretar y ejecutar las instrucciones de un programa en una computadora, dichas instrucciones deben escribirse en un **lenguaje de programación**.
+La **programación** es el proceso que permite idear, ordenar, interpretar y ejecutar, los pasos de un algoritmo o instrucciones de un programa en una computadora, dichas instrucciones deben escribirse en un **lenguaje de programación**.
 
 - - -
 
@@ -41,25 +41,34 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
  
 ## Importancia de la programación
 
-─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos, como herramientas y accesorios, que simplifican el ahorro de tiempo y el esfuerzo de trabajo. 
+─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos, como herramientas y accesorios que simplifican el ahorro de tiempo y el esfuerzo de trabajo. 
 
-En la actualidad, la **programación** es parte fundamental del avance tecnológico beneficiando diversos campos, como:
-
-Comunicación, transporte, medicina, economía, educación, investigación, trabajo, industria, creación y mejoramiento de máquinas que simplifican el trabajo, entre otros.
+En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización, la creación de aplicaciones informáticas y dispositivos utilizados y necesarios cada vez más en el mundo moderno.
 
 ─ Oportunidad laboral, un beneficio de saber programar. 
 
-La generación actual debe estar alfabetizada en tecnología para ser competitiva en el mercado laboral futuro. No saber codificar será comparable a no saber leer. La mayoría de las compañías tecnológicas requieren el conocimiento de habilidades básicas de TI(tecnologías de la información).
+La generación actual debe estar alfabetizada en tecnología para ser competitiva en el mercado laboral futuro. No saber codificar será comparable a no saber leer. La mayoría de las compañías tecnológicas requieren el conocimiento de habilidades básicas de TI (tecnologías de la información).
+
+El **desarrollo web**, es una opción que te permite crear aplicaciones que ayudan a tu comunidad o al medio ambiente.
 
 - - -
 
 ### A Continuación algunos enlaces
 
-► Puedes ingresar al campo laboral del desarrollo web, que será motivo de estudio en futuros proyectos. Aquí un link donde verás un resumen general del desarrollo web.
-:heavy_check_mark: :eyes: :point_right: Introducción al desarrollo web
+► Desarrollo web.
 
-► Referencia general del concepto de programación. 
-:heavy_check_mark: :eyes: :point_right: Wikipedia → [Programación](http://www.limni.net "Wikipedia-Programación")
+*Será tema de estudio en futuros proyectos. Aquí un link, donde verás un resumen general del desarrollo web.*
+
+* :heavy_check_mark: :eyes: :point_right: Introducción al desarrollo web
+
+► Conceptos.
+
+* :heavy_check_mark: :eyes: :point_right: Wikipedia → [Programación](https://es.wikipedia.org/wiki/Programaci%C3%B3n "Wikipedia-Programación")
+
+* :heavy_check_mark: :eyes: :point_right: Wikipedia → [Tecnología](https://es.wikipedia.org/wiki/Tecnolog%C3%ADa "Wikipedia-Tecnología")
+
+* :heavy_check_mark: :eyes: :point_right: Wikipedia → [Automatización Industrial](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_industrial "Wikipedia-Automatización_industrial")
 
 ► Continuar con esta guía.
-:heavy_check_mark: :eyes: :point_right: Proximamente => Proceso para crear programas de computadora
+
+* :heavy_check_mark: :eyes: :point_right: Proximamente => Proceso para crear programas de computadora
