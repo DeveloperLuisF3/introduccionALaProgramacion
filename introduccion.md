@@ -1,4 +1,4 @@
-# INTRODUCCIÓN
+# 1. INTRODUCCIÓN
 
 :heavy_check_mark: :point_right: Estudio sobre la programación de computadoras.
 
@@ -10,6 +10,7 @@
 * ¿Qué es la programación?
 * Beneficios de la programación
 * Importancia de la programación
+* Referencias
 
 - - -
 
@@ -43,7 +44,7 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
 
 ─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos, como herramientas y accesorios que simplifican el ahorro de tiempo y el esfuerzo de trabajo. 
 
-En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización, la creación de aplicaciones informáticas y dispositivos utilizados y necesarios cada vez más en el mundo moderno.
+En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización, la creación de aplicaciones informáticas y dispositivos, utilizados y necesarios cada vez más en el mundo moderno.
 
 ─ Oportunidad laboral, un beneficio de saber programar. 
 
@@ -53,7 +54,7 @@ El **desarrollo web**, es una opción que te permite crear aplicaciones que ayud
 
 - - -
 
-### A Continuación algunos enlaces
+### Referencias
 
 ► Desarrollo web.
 
@@ -70,5 +71,7 @@ El **desarrollo web**, es una opción que te permite crear aplicaciones que ayud
 * :heavy_check_mark: :eyes: :point_right: Wikipedia → [Automatización Industrial](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_industrial "Wikipedia-Automatización_industrial")
 
 ► Continuar con esta guía.
+
+* :heavy_check_mark: :eyes: :point_right: [Inicio](https://github.com/DeveloperLuisF3/introduccionALaProgramacion "Ir a inicio")
 
 * :heavy_check_mark: :eyes: :point_right: Proximamente => Proceso para crear programas de computadora
