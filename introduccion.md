@@ -1,6 +1,6 @@
 # 1. INTRODUCCIÓN
 
-:heavy_check_mark: :point_right: Estudio sobre la programación de computadoras.
+:heavy_check_mark: :eyes: :point_right: Estudio sobre la programación de computadoras.
 
 - - -
 
@@ -18,15 +18,15 @@
 
 El propósito de esta guía es adquirir los **fundamentos de programación** necesarios para crear programas de computadora. 
 
-Comenzaremos, con una breve explicación sobre el concepto, los beneficios y la importancia de la programación, veremos, cuál es el proceso para crear programas de computadora completamente desde cero, y por último, profundizaremos en los fundamentos del lenguaje de programación.
+Comenzaremos con una breve explicación sobre el concepto, los beneficios y la importancia de la programación, veremos cuál es el proceso para crear programas de computadora completamente desde cero y por último profundizaremos en los fundamentos del lenguaje de programación.
 
-Espero que esta guía te sea útil. :100:
+:eyes: :point_right: Espero que esta guía te sea útil. :100:
 
 - - -
 
 ## ¿Qué es la programación?
 
-La **programación** es el proceso que permite idear, ordenar, interpretar y ejecutar, los pasos de un algoritmo o instrucciones de un programa en una computadora, dichas instrucciones deben escribirse en un **lenguaje de programación**.
+La **programación** es el proceso que permite idear, ordenar, interpretar y ejecutar los pasos de un algoritmo o instrucciones de un programa en una computadora, dichas instrucciones deben escribirse en un **lenguaje de programación**.
 
 - - -
 
@@ -42,15 +42,17 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
  
 ## Importancia de la programación
 
-─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos, como herramientas y accesorios que simplifican el ahorro de tiempo y el esfuerzo de trabajo. 
+─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos como herramientas y accesorios que simplifican el ahorro de tiempo y el esfuerzo de trabajo.
 
-En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización, la creación de aplicaciones informáticas y dispositivos, utilizados y necesarios cada vez más en el mundo moderno.
+En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización y la creación de aplicaciones y dispositivos informáticos.
+
+El mundo moderno y nuestra vida cotidiana utiliza y necesita de **la programación**. Sin embargo no es suficiente hace falta mucho por mejorar y crear, es por esto que en el futuro inmediato la demanda de programadores será mayor.
 
 ─ Oportunidad laboral, un beneficio de saber programar. 
 
 La generación actual debe estar alfabetizada en tecnología para ser competitiva en el mercado laboral futuro. No saber codificar será comparable a no saber leer. La mayoría de las compañías tecnológicas requieren el conocimiento de habilidades básicas de TI (tecnologías de la información).
 
-El **desarrollo web**, es una opción que te permite crear aplicaciones que ayudan a tu comunidad o al medio ambiente.
+*El **desarrollo web**, te permite crear aplicaciones que ayudan a tu comunidad y al medio ambiente, además de ser una muy buena opción laboral.*
 
 - - -
 
