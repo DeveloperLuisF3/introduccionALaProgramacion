@@ -46,7 +46,7 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
 
 En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización y la creación de aplicaciones y dispositivos informáticos.
 
-El mundo moderno y nuestra vida cotidiana utiliza y necesita de **la programación**. Sin embargo no es suficiente hace falta mucho por mejorar y crear, es por esto que en el futuro inmediato la demanda de programadores será mayor.
+El mundo moderno y nuestra vida cotidiana utiliza y necesita de **la programación**. Sin embargo no es suficiente, hace falta mucho por mejorar y crear, es por esto que en el futuro inmediato la demanda de programadores será mayor.
 
 ─ Oportunidad laboral, un beneficio de saber programar. 
 
@@ -76,4 +76,4 @@ La generación actual debe estar alfabetizada en tecnología para ser competitiv
 
 * :heavy_check_mark: :eyes: :point_right: [Inicio](https://github.com/DeveloperLuisF3/introduccionALaProgramacion "Ir a inicio")
 
-* :heavy_check_mark: :eyes: :point_right: Proximamente => Proceso para crear programas de computadora
+* :heavy_check_mark: :eyes: :point_right: Proximamente => 2. Proceso para crear programas de computadora
