@@ -46,7 +46,7 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
 
 En la actualidad, la **programación** es parte fundamental del avance tecnológico, permitiendo el desarrollo de la automatización y la creación de aplicaciones y dispositivos informáticos.
 
-El mundo moderno y nuestra vida cotidiana utiliza y necesita de **la programación** que aún esta en desarrollo, hace falta mucho por mejorar y crear, esta es una razón por la que  existe alta demanda de programadores.
+El mundo moderno y nuestra vida cotidiana utiliza y necesita de la **programación** que aún esta en desarrollo, hace falta mucho por mejorar y crear, esta es una razón por la que  existe alta demanda de programadores.
 
 ─ Oportunidad laboral, un beneficio de saber programar. 
 
@@ -62,7 +62,7 @@ La generación actual debe estar alfabetizada en tecnología para ser competitiv
 
 *Será tema de estudio en futuros proyectos. Aquí un link, donde verás un resumen general del desarrollo web.*
 
-* :heavy_check_mark: :eyes: :point_right: Introducción al desarrollo web
+* :heavy_check_mark: :eyes: :point_right: [Introducción al desarrollo web](https://youtu.be/exlHooJcaMQ "introducción al desarrollo web")
 
 ► Conceptos.
 
