@@ -14,23 +14,23 @@
 
 - - -
 
-## Introducción 
+## 1.1 Introducción 
 
 El propósito de esta guía es adquirir los **fundamentos de programación** necesarios para crear programas de computadora. 
 
-Comenzaremos con una breve explicación sobre el concepto, los beneficios y la importancia de la programación, veremos cuál es el proceso para crear programas de computadora completamente desde cero y por último profundizaremos en los fundamentos del lenguaje de programación.
+Comenzaremos con una breve explicación sobre el concepto, los beneficios y la importancia de la programación, veremos cuál es el proceso para crear programas de computadora desde cero y por último profundizaremos en los fundamentos del lenguaje de programación.
 
 :eyes: :point_right: Espero que esta guía te sea útil. :100:
 
 - - -
 
-## ¿Qué es la programación?
+## 1.2 ¿Qué es la programación?
 
 La **programación** es el proceso que permite idear, ordenar, interpretar y ejecutar los pasos de un algoritmo o instrucciones de un programa en una computadora, dichas instrucciones deben escribirse en un **lenguaje de programación**.
 
 - - -
 
-## Beneficios de la programación
+## 1.3 Beneficios de la programación
 
 Programar permite ejercitar otras capacidades que sirven para todos los ámbitos de tu vida, como mejorar el razonamiento lógico formal y potenciar la habilidad para la resolución de problemas.
 
@@ -40,7 +40,7 @@ Programar permite ejercitar otras capacidades que sirven para todos los ámbitos
 
 - - -
  
-## Importancia de la programación
+## 1.4 Importancia de la programación
 
 ─ La **tecnología** ha aportado grandes beneficios a la humanidad, ha permitido crear y mejorar inventos como herramientas y accesorios que simplifican el ahorro de tiempo y el esfuerzo de trabajo.
 
@@ -56,24 +56,18 @@ La generación actual debe estar alfabetizada en tecnología para ser competitiv
 
 - - -
 
-### Referencias
+### 1.5 Referencias
 
-► Desarrollo web.
+**► Desarrollo web.**
 
 *Será tema de estudio en futuros proyectos. Aquí un link, donde verás un resumen general del desarrollo web.*
 
 * :heavy_check_mark: :eyes: :point_right: [Introducción al desarrollo web](https://youtu.be/exlHooJcaMQ "introducción al desarrollo web")
 
-► Conceptos.
-
-* :heavy_check_mark: :eyes: :point_right: Wikipedia → [Programación](https://es.wikipedia.org/wiki/Programaci%C3%B3n "Wikipedia-Programación")
-
-* :heavy_check_mark: :eyes: :point_right: Wikipedia → [Tecnología](https://es.wikipedia.org/wiki/Tecnolog%C3%ADa "Wikipedia-Tecnología")
-
-* :heavy_check_mark: :eyes: :point_right: Wikipedia → [Automatización Industrial](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_industrial "Wikipedia-Automatización_industrial")
-
-► Continuar con esta guía.
+**► Continuar con esta guía.**
 
 * :heavy_check_mark: :eyes: :point_right: [Inicio](https://github.com/DeveloperLuisF3/introduccionALaProgramacion "Ir a inicio")
 
-* :heavy_check_mark: :eyes: :point_right: Proximamente => 2. Proceso para crear programas de computadora
+* :heavy_check_mark: :eyes: :point_right: [Proceso para crear programas de computadora](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/procesoParaCrearProgramasDeComputadora "Ir a Proceso para crear programas de computadora")
+
+* :heavy_check_mark: :eyes: :point_right: Proximamente => Fundamentos de los lenguajes de programación
