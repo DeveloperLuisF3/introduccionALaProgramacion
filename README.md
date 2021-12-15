@@ -10,10 +10,25 @@
 
 ### Contenido:
 
-1. [Introducción](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/introduccion.md "Ir a la introducción")
-    * Introducción
-    * ¿Qué es la programación?
-    * Beneficios de la programación
-    * Importancia de la programación
-    * Referencias
- 
+1. [Introducción](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/introduccion.md "Ir a introducción")
+    * 1.1 Introducción
+    * 1.2 ¿Qué es la programación?
+    * 1.3 Beneficios de la programación
+    * 1.4 Importancia de la programación
+    * 1.5 Referencias
+2. [Proceso para crear programas de computadora](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/procesoParaCrearProgramasDeComputadora "Ir a Proceso para crear programas de computadora")
+    * 2.1 Introducción
+        * 2.1.1 Introducción
+        * 2.1.2 ¿Que entendemos por problema?
+        * 2.1.3 Solución de problemas
+            * Identificación del problema
+            * Encontrar posibles soluciones
+            * Diseño del método de resolución
+        * 2.1.4 Diseño de algoritmos
+            * ¿Qué es un algoritmo?
+                * ¿Qué es un diagrama de flujo?
+                * ¿Qué es un pseudocódigo?
+        * 2.1.5 Traducir el algoritmo
+        * 2.1.6 Depurar el programa
+        * 2.1.7 Mantenimiento del programa
+        * 2.1.8 Referencias 
