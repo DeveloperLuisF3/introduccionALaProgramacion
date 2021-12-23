@@ -157,7 +157,7 @@ El programador debe planear la estrategía que permita alcanzar la solución de 
 
 Un **algoritmo** es una lista de instrucciones ordenada lógicamente que permite resolver un problema.
 
-Las **características fundamentales** de los algoritmo son las siguientes: 
+Las **características fundamentales** de los algoritmos son las siguientes: 
 
 * **Preciso:** Debe indicar claramente el orden en él que se deben realizar las instrucciones que permitan resolver el problema. 
 * **Ordenado:** Se deben entender claramente las instrucciones y cada parte del algoritmo.   
