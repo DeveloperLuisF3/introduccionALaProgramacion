@@ -159,8 +159,8 @@ Un **algoritmo** es una lista de instrucciones ordenada lógicamente que permite
 
 Las **características fundamentales** de los algoritmo son las siguientes: 
 
-* **Preciso:** Se deben entender claramente las instrucciones y cada parte del algoritmo.
-* **Ordenado:** Debe indicar claramente el orden en él que se deben realizar las instrucciones del algoritmo.  
+* **Preciso:** Debe indicar claramente el orden en él que se deben realizar las instrucciones que permitan resolver el problema. 
+* **Ordenado:** Se deben entender claramente las instrucciones y cada parte del algoritmo.   
 * **Eficaz:** Las instrucciones del algoritmo deben ayudar a resolver el problema original.
 
 Las **herramientas** y **técnicas** de diseño de algoritmos son las siguientes:
