@@ -6,7 +6,7 @@
 
 ### Contenido:
 
-* 2. Proceso para crear programas de computadora
+2. Proceso para crear programas de computadora
     * 2.1 [Introducción](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/procesoParaCrearProgramasDeComputadora/introduccion.md "Ir a introducción")
         * 2.1.1 Introducción
         * 2.1.2 ¿Que entendemos por problema?
