@@ -68,16 +68,26 @@ Después de **analizar** y **comprender** completamente la situación, define un
 
 Ejemplo: 
 
-El próximo mes estará a la venta el video juego que quiero tener y no tengo dinero para comprarlo.
+El próximo mes estará a la venta el videojuego que quiero tener y no tengo dinero para comprarlo.
+
+Datos disponibles:
+
+* La venta del videojuego el próximo mes.
+* Que no tengo dinero para comprar el videojuego.
+
+Lo que se desea:
+
+* Tener el videojuego.
+* El dinero para comprar el videojuego.
+
 
 ¿Cuál es el problema?
 
-* Que falta mucho tiempo para la venta.
-* Que no tengo dinero para comprar el video juego.
+* Que no tengo dinero para comprar el videojuego.
 
 En esta situación en particular es sencillo identificar el problema, el problema es:
 
-Que **no tengo dinero** para comprar el video juego.
+Que **no tengo dinero** para comprar el videojuego.
 
 ### Encontrar posibles soluciones
 
@@ -91,13 +101,13 @@ Ejemplo:
 
 En la situación anterior se identificó que el problema es:
 
-Que **no tengo dinero** para comprar el video juego.
+Que **no tengo dinero** para comprar el videojuego.
 
 Posibles soluciones:
 
-* Pedir dinero prestado para comprar el video juego.
-* Buscar a un amigo que compre el video juego y que quiera invitarme a jugar.
-* Conseguir un empleo que nos permita trabajar y conseguir el dinero necesario para comprar el video juego.
+* Pedir dinero prestado para comprar el videojuego.
+* Buscar a un amigo que compre el videojuego y que quiera invitarme a jugar.
+* Conseguir un empleo que nos permita trabajar y conseguir el dinero necesario para comprar el videojuego.
 
 Vemos que la mejor y posiblemente la única solución para resolver nuestro problema es: 
 
@@ -109,13 +119,18 @@ Saber cual es el problema y cómo resolverlo no es suficiente, no significa que 
 
 Ejemplo:
 
-La solución a nuestro problema es conseguir un empleo y la estrategía  o los pasos que nos permitirá resolver el problema es:
+La solución a nuestro problema es conseguir un empleo y la estrategía  o los pasos que nos permitirá resolver el problema son:
 
 * Ordenar nuestros documentos personales y laborales disponibles.
 * Seleccionar la ropa para una entrevista laboral.
 * Seleccionar posibles empleos.
 * Realizar citas para entrevistas laborales.
 * Acudir a las entrevistas laborales.
+* Conseguir el empleo
+* Trabajar mínimo durante un mes.
+* Ahorrar el sueldo para juntar el dinero necesario y comprar el videojuego.
+* Comprar el videojuego.
+
 
 
 El **método de resolución** o **algoritmo** es la serie de pasos o instrucciones que permite alcanzar la solución de un problema.
