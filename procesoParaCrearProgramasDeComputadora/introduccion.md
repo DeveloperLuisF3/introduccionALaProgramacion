@@ -174,7 +174,7 @@ Un **diagrama de flujo** es la **representación gráfica** mediante símbolos e
 
 Aquí el ejemplo de un diagrama de flujo.
 
-![DiagramaDeFlujo_image](../image/algoritmo.png "DiagramaDeFlujo_img")
+![DiagramaDeFlujo_image](../image/algritmo.png "DiagramaDeFlujo_img")
 
 #### ¿Que es un pseudocódigo?
 
