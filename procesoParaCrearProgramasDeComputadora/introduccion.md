@@ -172,14 +172,23 @@ Las **herramientas** y **técnicas** de diseño de algoritmos son las siguientes
 
 Un **diagrama de flujo** es la **representación gráfica** mediante símbolos especiales de los pasos o procedimientos de manera secuencial y lógica que se deben realizar para solucionar un problema.
 
+Aquí el ejemplo de un diagrama de flujo.
+
+![DiagramaDeFlujo_image](../image/algoritmo.png "DiagramaDeFlujo_img")
+
 #### ¿Que es un pseudocódigo?
 
 Un **pseudocódigo**(falso lenguaje o lenguaje de descripción algorítmico) netamente un **lenguaje de tipo informático**, es redactar cada paso del algoritmo utilizando oraciones breves sin incluir adjetivos y artículos. En la práctica el pseudocódigo es más utilizado.
 
+Aquí el ejemplo de un pseudocódigo.
+
+![Pseudocódigo-image](../image/pseudocodigo.png "pseudocódigo_img")
+
 Utilizar estas **herramientas** o **técnicas** facilita la transcripción de un algoritmo a un lenguaje de programación.
 
+**Nota:** Aquí se describen los elementos para construir Algoritmos.
 
-**Nota:** Dedicaremos una sección para estudiar los conceptos generales para diseñar algoritmos que sean fáciles de transcribir a un lenguaje de programación.
+* :heavy_check_mark: :eyes: :point_right: [Algoritmos](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/procesoParaCrearProgramasDeComputadora/algoritmos "Ir a Algoritmos")
 
 - - -
 
@@ -190,6 +199,10 @@ La **programación** es transformar un problema en una serie de instrucciones qu
 El programador debe entender por completo los **fundamentos de los lenguajes de programación** y ser capaz de traducir el algoritmo diseñado a un lenguaje de programación y aplicarlo a una computadora.
 
 **Nota:** *Próximamente → fundamentos de los lenguajes de programación.*
+
+Aquí el ejemplo de un programa de computadora.
+
+![Código_image](../image/codigo.png "Código_img")
 
 - - - 
 
