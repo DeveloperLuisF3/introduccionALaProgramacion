@@ -22,4 +22,7 @@
         * 2.1.6 Depurar el programa
         * 2.1.7 Mantenimiento del programa
         * 2.1.8 Referencias
+    * 2.2 [Algoritmos](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/procesoParaCrearProgramasDeComputadora/algoritmos "Ir a Algoritmos")
+        * 2.2.1 Introducción
+            * Introducción
          
