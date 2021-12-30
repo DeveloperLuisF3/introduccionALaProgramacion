@@ -31,4 +31,8 @@
         * 2.1.5 Traducir el algoritmo
         * 2.1.6 Depurar el programa
         * 2.1.7 Mantenimiento del programa
-        * 2.1.8 Referencias 
+        * 2.1.8 Referencias
+    * 2.2 Algoritmos
+        * 2.2.1 Introducción
+            * Introducción
+
