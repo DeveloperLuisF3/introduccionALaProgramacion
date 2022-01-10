@@ -25,4 +25,11 @@
     * 2.2 [Algoritmos](https://github.com/DeveloperLuisF3/introduccionALaProgramacion/tree/main/procesoParaCrearProgramasDeComputadora/algoritmos "Ir a Algoritmos")
         * 2.2.1 Introducción
             * Introducción
+            * Estructura de un algoritmo
+            * Elementos para construir algoritmos
+                * Variables y constantes
+                * Entradas y salidas
+                * Operación de asignación y operaciones matemáticas
+                * Comparaciones y selecciones
+            * Referencias
          
