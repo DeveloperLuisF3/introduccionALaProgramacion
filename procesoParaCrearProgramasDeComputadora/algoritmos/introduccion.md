@@ -7,13 +7,13 @@
 ### Contenido:
 
 * Introducción
-* Estructura de un algoritmo.
+* Estructura de un algoritmo
 * Elementos para construir algoritmos
-    * Variables y constantes.
-    * Entradas y salidas.
-    * Operación de asignación y operaciones matemáticas.
-    * Comparaciones y selecciones.
-    * Referencias.
+    * Variables y constantes
+    * Entradas y salidas
+    * Operación de asignación y operaciones matemáticas
+    * Comparaciones y selecciones
+* Referencias
 
 - - -
 
@@ -138,13 +138,23 @@ Las comparaciones relacionan dos datos y sirven para imponer condiciones. Con el
 
 A continuación veremos a detalle cada uno de los elementos de los algoritmos.
 
-**Nota:** Como herramienta para desarrollar algoritmos utilizaremos Flowgorithm, que es una aplicación de escritorio gratis que permite crear diagramas de flujo.
+**Nota:** Como herramienta para desarrollar algoritmos utilizaremos Flowgorithm, que es una aplicación de escritorio que permite crear diagramas de flujo.
 
 Al usar diagramas de flujo, nos permite concentrarnos en conceptos de programación en lugar de todos los matices de un lenguaje de programación típico.
 
 La guía para descargar Flowgorithm a tu computador se encuentra en el siguiente link:
 
-:heavy_check_mark: :eyes: :point_right: Descarga Flowgorithm
+:heavy_check_mark: :eyes: :point_right: Descarga e instalación de Flowgorithm.
+
+#### Variables y constantes
+
+#### Entradas
+
+#### Proceso
+
+#### Salidas
+
+- - -
 
 ### Referencias
 
