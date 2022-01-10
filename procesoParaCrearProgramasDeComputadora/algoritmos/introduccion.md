@@ -13,6 +13,7 @@
     * Entradas y salidas
     * Operación de asignación y operaciones matemáticas
     * Comparaciones y selecciones
+* Estructura y elementos para construir algoritmos
 * Referencias
 
 - - -
@@ -146,13 +147,17 @@ La guía para descargar Flowgorithm a tu computador se encuentra en el siguiente
 
 :heavy_check_mark: :eyes: :point_right: Descarga e instalación de Flowgorithm.
 
-#### Variables y constantes
+- - -
 
-#### Entradas
+## Estructura y elementos para construir algoritmos
 
-#### Proceso
+### Variables y constantes
 
-#### Salidas
+### Entradas
+
+### Proceso
+
+### Salidas
 
 - - -
 
