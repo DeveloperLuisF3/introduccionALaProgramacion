@@ -35,4 +35,10 @@
     * 2.2 Algoritmos
         * 2.2.1 Introducción
             * Introducción
-
+            * Estructura de un algoritmo
+            * Elementos para construir algoritmos
+                * Variables y constantes
+                * Entradas y salidas
+                * Operación de asignación y operaciones matemáticas
+                * Comparaciones y selecciones
+            * Referencias
